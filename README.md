@@ -10,6 +10,7 @@
 ### 🚀 About Me
 
 - 🧑‍💻 Full Stack Developer at **TechNest Ventures (Uplers)** working on AI-based hiring automation tools.
+- 🤖 Vibe Coder
 - 🌱 Focused on mastering **React, TypeScript, JavaScript**, and clean, maintainable codebases.
 - 💡 Interested in **UI/UX**, microservices architecture, and developer tooling.
 - 👩‍🏫 Mentoring junior developers and interns; love sharing knowledge and helping others grow.
